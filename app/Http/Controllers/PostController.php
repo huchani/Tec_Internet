@@ -53,4 +53,5 @@ class PostController extends Controller
            
         $comment->post()->associate($post)->save();
     }
+    //Edil Zapata es un colaborador estuvo aca
 }
